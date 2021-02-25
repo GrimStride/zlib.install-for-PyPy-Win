@@ -1,14 +1,10 @@
-# zlib.install
+# zlib installer for Windows version of PyPy
 
-Windows one-line installer for zlib library.
+Batch file for installing zlib library on the Windows version PyPy.
 
 # Usage
 
-Open your command prompt as Administrator and enter
-
-```
-powershell -Command "(New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/horta/zlib.install/master/install.bat', 'install_zlib.bat')"; ./install_zlib.bat; del install_zlib.bat
-```
+Work in Progress
 
 # Requirements
 
